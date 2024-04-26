@@ -52,4 +52,4 @@
 
 ## Список использованных источников
 - https://github.com/MSU-Courses/javascript_typescript/tree/main/docs
-- https://chat.openai.com/c/4a6a02be-71a1-49d0-b5f4-29cf9bd0794d
+- https://learn.javascript.ru/
